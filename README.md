@@ -38,4 +38,4 @@ A window should be launched and you can see the program for yourself. Blue means
 
 **Note 2:** The BPMs functionality is very shaky (specially because I'm not using threads), and as such, a big amount of sounds selected might fall out of the choosen BPMs. Also a higher BPMs can cause the program to cut your pre-recorded sound half way through.
 
-**Note 3:** There is something you might find odd, which is why use "highlightbackgroundcolor" to color the buttons. Well this a Mac OS specific problem, and seeing I'm working on one, for my sake, this option was adopted, feel free to change it if you use a Windows/Linux.
+**Note 3:** There is something you might find odd, which is why use "highlightbackground" to color the buttons. Well this a Mac OS specific problem, and seeing I'm working on one, for my sake, this option was adopted, feel free to change it if you use a Windows/Linux.
