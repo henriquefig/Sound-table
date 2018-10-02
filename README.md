@@ -12,9 +12,12 @@ I'm very new to python, so there could be some glaring mistakes (e.g. the overus
 To use Sound-table you will need python 3.x (the project was developed with python 3.7)
 and the following modules:
 
-Wave - to read and write .wav files with help of Pyaudio
-Tkinter - to load all the graphical contents
-Pyaudio - to read and write .wav files with help of Wave
+**Wave** - to read and write .wav files with help of Pyaudio
+
+**Tkinter** - to load all the graphical contents
+
+**Pyaudio** - to read and write .wav files with help of Wave
+
 
 ```bash
 pip3 install wave
